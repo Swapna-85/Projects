@@ -1,0 +1,25 @@
+# Ignore Visual Studio temporary files and build results
+.vs/
+bin/
+obj/
+publish/
+*.suo
+*.user
+*.aps
+*.eto
+*.DotSettings
+
+# Ignore publish profiles
+PublishProfiles/
+
+# Ignore Rider temportary files
+.idea/
+
+# Ignore nuget packages
+packages/
+
+# Ignore log files
+Logs/
+*.log
+*.svclog
+gitinfo\.txt
